@@ -3,4 +3,8 @@
     <string name="age_5">Age: 5</string>
     <string name="heigth_20_sm">Heigth: 20 sm</string>
     <string name="name_lady">Name: Lady</string>
+    <string name="dog_name">Name: Vanilla</string>
+    <string name="dog_age">Age:  3</string>
+    <string name="dog_alternative_age">Age:  5</string>
+    <string name="dog_food">favorite food: meet</string>
 </resources>

@@ -44,9 +44,9 @@ public class PetsCard extends AppCompatActivity {
                 onBackPressed();
                 break;
             case R.id.update_text:
-                informationAboutDog1.setText("Name: Vanilla");
-                informationAboutDog2.setText("Age:  3");
-                informationAboutDog3.setText("favorite food: meet");
+                informationAboutDog1.setText(R.string.dog_name);
+                informationAboutDog2.setText(R.string.dog_age);
+                informationAboutDog3.setText(R.string.dog_food);
         }
         return super.onOptionsItemSelected(item);
     }
